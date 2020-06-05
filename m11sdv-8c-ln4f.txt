@@ -10,13 +10,25 @@ SUPERMICRO M11SDV-8C-LN4F AMD EPYC 3251 8-CORE EMBEDDED
 MINI ITX MOTHERBOARD W/ QUAD GBE LAN, IPMI
 
 Product ID: M11SDV-8C-LN4F
-o AMD Epyc 3251 8-Core Processor
-o Supports up to 512GB ECC RDIMM Memory
-o 4x Intel GbE LAN and a Dedicated IPMI
+o AMD Epyc 3251 8-Core Processor              <===
+o Supports up to 512GB ECC RDIMM Memory       <===
+o 4x Intel GbE LAN and a Dedicated IPMI       <===
 o PCI-E 3.0 x16 slot, M.2 PCI-E 3.0 x4 slot
 o Mini ITX Form Factor
 
-Wow, really like this guy.
+o Power: 50W TDP
+o Price: $699.95 (Fri June 5, 2020)
+
+Featuring the AMD EPYC embedded 3000 high performance processor
+at 50W TDP, this motherboard balances the performance-per-watt
+giving a cost effective choice. With four gigabit ethernet lan
+ports and an additional dedicated IPMI, this motherboard is
+ideal for network function virtualization, software defined
+networking, and networked storage infrastructure.
+
+Wow, really like this guy.  Only has 1x VGA for display but
+with PCI-E 3.0 x16 slot, M.2 PCI-E 3.0 x4 slot could easily
+add multi-port video card.
 
 
 Links
