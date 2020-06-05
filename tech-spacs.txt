@@ -7,6 +7,17 @@ Technical Specifications
 Supermicro M11SDV-8C-LN4F
 
 
+Chassis (looks nicer):
+  MITXPC MX500-USB3 Compact Mini-ITX Case, Fanless, USB 3.0, Wall & VESA Mount
+  by MITXPC
+  o Ultra-compact, Mini-ITX Enclosure
+  o Features 2 x USB 3.0 Ports; Supports 2x 2.5" Hard Drive or SSD
+  o Supports Fanless Applications; Supports up to 4 x 40mm Case Fans
+  o Wall Mount Hardware Included;
+  o Case Dimensions: 228.6mm x 195.6mm x 63.5mm, 9" x 7.7" x 2.5"
+  price: $49.95 + free shipping
+  https://www.amazon.com/MITXPC-MX500-USB3-Compact-Mini-ITX-Fanless/dp/B0728DX73X/ref=pd_di_sccai_2/144-7780309-7087531?_encoding=UTF8&pd_rd_i=B0728DX73X&pd_rd_r=188b55e2-4bfd-4799-9e22-294973911fbc&pd_rd_w=J7uoo&pd_rd_wg=ybDkl&pf_rd_p=61ce50cf-2379-4458-9044-fa8b402c702d&pf_rd_r=0CA643ZC1E7ZV3H17HS5&psc=1&refRID=0CA643ZC1E7ZV3H17HS5
+
 Chassis (looks nice):
   Tangxi L80 Mini ITX Case, Ultra Compact 
   Aluminum Alloy Computer Case for Minh-IIX Motherboard(USB2.0 Black)
