@@ -1,0 +1,106 @@
+tech-spacs.txt
+Created Fri 05 Jun 2020 12:22:18 PM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Technical Specifications
+Supermicro M11SDV-8C-LN4F
+
+
+Chassis (looks nice):
+  Tangxi L80 Mini ITX Case, Ultra Compact 
+  Aluminum Alloy Computer Case for Minh-IIX Motherboard(USB2.0 Black)
+  by Tangxi
+  Price: $70.99 + $20.00 shipping
+
+
+Recommended RAM
+---------------
+4x Supermicro 8GB 288-Pin DDR4 2666 (HMA81GR7CJR8N-VK)
+4x 8GB = 32GB
+4x $82 = $328
+
+The Supermicro 8GB 288-Pin DDR4 2666 (HMA81GR7CJR8N-VK) 
+server memory is designed for the latest high-performance
+systems.  Each and every memory module are validated and
+Supermicro certified to ensure performance and reliability.
+This Supermicro 8GB DDR4 memory offers higher frequencies, 
+greater bandwidth, and lower power consumption to
+maximize your performance.
+
+https://store.supermicro.com/memory/8gb-ddr4-2666-mem-dr480l-hl05-er26.html?utm=testedlink
+
+
+o AMD Epyc 3251 8-Core Processor
+o Supports up to 512GB ECC RDIMM Memory
+o 4x Intel GbE LAN and a Dedicated IPMI
+o PCI-E 3.0 x16 slot, M.2 PCI-E 3.0 x4 slot
+o Mini ITX Form Factor
+
+
+Manufacturer:          Supermicro
+Part Number:           M11SDV-8C-LN4F
+CPU:                   AMD EPYC 3251 Embedded Processor
+                       2.5 - 3.1 GHz
+                       8 Cores / 16 Threads
+                       55W TDP
+Chipset:               SoC
+Memory:                4 x DDR4 DIMM slots
+                       2666MHz
+                       Supports ECC Registered
+Video:                 ASPEED AST2500 BMC
+
+Storage Technology:    4x SATA3 6Gb/s Connectors
+                       1x M.2 slot (2280, PCI-E 3.0 x4 or SATA)
+
+Connectivity:          4x Intel i350-AM4 GbE LAN
+                       1x Realtek RTL8211E PHY (Dedicated IPMI)
+
+Expansion Slots:       1x PCI-E 3.0 x16 slot
+Power:                 8-Pin 12V DC Power Input
+Note:                  Required for 12V only or 24-pin ATX power
+                       Header for ATX Power Signal 5VSTBY/Power On/Power Good/Ground
+
+Rear I/O:              1x RJ45 Dedicated IPMI
+                       2x USB 3.0
+                       4x RJ45 GbE LAN
+                       1x VGA
+
+Onboard I/O Headers:   1x Serial COM header (RS232)
+                       2x System Fan header
+                       1x CPU Fan header
+                       1x 8-Bit GPIO header
+                       1x Power SMB header
+                       1x System Management Bus header
+                       1x TPM/Port 80 connector
+                       1x UID Unit Identifier Switch
+                       3x USB 2.0 header (up to 6 ports)
+
+Special Features:      SuperDoctor 5
+                       Watch Dog
+                       SUM-INBand, SUM-OOB
+
+Form Factor:           Mini-ITX
+                       170 x 170mm
+                       6.7" x 6.7" (in inches)
+
+Compliance:            RoHS
+
+Environmental:         Operating Temperature: 0°C - 60°C (32°F to 140°F)
+                       Storage Temperature: -40°C - 70°C (-40°F to 158°F)
+                       Operating Humidity: 8% to 90% (non-condensing)
+                       Non-operating Humidity: 5% to 95% (non-condensing)
+
+Warranty:              1-Year Manufacturer's Limited Warranty for parts
+                       3-Year Manufacturer's Limited Warranty for labor
+
+
+Links
+=====
+SUPERMICRO M11SDV-8C-LN4F 
+AMD EPYC 3251 8-CORE EMBEDDED 
+MINI ITX MOTHERBOARD W/ QUAD GBE LAN, IPMI
+https://mitxpc.com/products/m11sdv-8c-ln4f
+
+M11SDV-8C-LN4F
+https://www.supermicro.com/en/products/motherboard/M11SDV-8C-LN4F
